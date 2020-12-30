@@ -13,6 +13,7 @@ public class browser {
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://www.google.com/");
 		driver.get("learing eample");
+		driver.get(" git addx");
 	}
 	
 	@Test
@@ -22,6 +23,7 @@ public class browser {
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://www.google.com/");
 		driver.get("learing eample");
+		driver.get(" git addx");
 	}
 
 }
