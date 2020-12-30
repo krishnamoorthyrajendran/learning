@@ -14,6 +14,7 @@ public class browser {
 		driver.get("https://www.google.com/");
 		driver.get("learing eample");
 		driver.get(" git addx");
+		driver.get(" new developemnt");
 	}
 	
 	@Test
@@ -24,6 +25,7 @@ public class browser {
 		driver.get("https://www.google.com/");
 		driver.get("learing eample");
 		driver.get(" git addx");
+		driver.get(" new developemnt");
 	}
 
 }
